@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="title_activity_home_page">Gallery</string>
+    <string name="emptymessage">No Images Clicked</string>
+</resources>
